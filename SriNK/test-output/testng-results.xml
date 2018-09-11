@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29404" started-at="2018-09-07T05:42:45Z" finished-at="2018-09-07T05:43:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29404" started-at="2018-09-07T05:42:45Z" finished-at="2018-09-07T05:43:14Z">
+      <class name="maven.SriNK.readexcel">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="beforeMethod" is-config="true" duration-ms="11423" started-at="2018-09-07T05:42:45Z" finished-at="2018-09-07T05:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logs()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="logs" duration-ms="102" started-at="2018-09-07T05:42:56Z" finished-at="2018-09-07T05:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logs -->
+        <test-method status="PASS" signature="close()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="close" is-config="true" duration-ms="3599" started-at="2018-09-07T05:42:56Z" finished-at="2018-09-07T05:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="beforeMethod" is-config="true" duration-ms="10256" started-at="2018-09-07T05:43:00Z" finished-at="2018-09-07T05:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Links()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="Links" duration-ms="394" started-at="2018-09-07T05:43:10Z" finished-at="2018-09-07T05:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Links -->
+        <test-method status="PASS" signature="close()[pri:0, instance:maven.SriNK.readexcel@74ad1f1f]" name="close" is-config="true" duration-ms="3605" started-at="2018-09-07T05:43:10Z" finished-at="2018-09-07T05:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- maven.SriNK.readexcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

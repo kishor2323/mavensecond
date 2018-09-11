@@ -1,0 +1,69 @@
+2018-09-07 11:03:00 INFO  log4jExptestNG:21 - -----------------New Testcvase----------------------
+2018-09-07 11:03:00 TRACE log4jExptestNG:22 - It is trace message
+2018-09-07 11:03:00 DEBUG log4jExptestNG:23 - Application is opened
+2018-09-07 11:03:00 INFO  log4jExptestNG:24 - Page is opened
+2018-09-07 11:03:00 WARN  log4jExptestNG:25 - It is warning message
+2018-09-07 11:03:00 ERROR log4jExptestNG:26 - It is error message
+2018-09-07 11:03:00 FATAL log4jExptestNG:27 - Fatal Message
+2018-09-07 11:04:27 INFO  log4jExptestNG:53 - -----------------New Testcvase----------------------
+2018-09-07 11:04:27 TRACE log4jExptestNG:54 - It is trace message
+2018-09-07 11:04:27 DEBUG log4jExptestNG:55 - Application is opened
+2018-09-07 11:04:27 INFO  log4jExptestNG:56 - Page is opened
+2018-09-07 11:04:27 WARN  log4jExptestNG:57 - It is warning message
+2018-09-07 11:04:27 ERROR log4jExptestNG:58 - It is error message
+2018-09-07 11:04:27 FATAL log4jExptestNG:59 - Fatal Message
+2018-09-07 11:05:58 INFO  log4jExptestNG:53 - -----------------New Testcvase----------------------
+2018-09-07 11:05:58 TRACE log4jExptestNG:54 - It is trace message
+2018-09-07 11:05:58 DEBUG log4jExptestNG:55 - Application is opened
+2018-09-07 11:05:58 INFO  log4jExptestNG:56 - Page is opened
+2018-09-07 11:05:58 WARN  log4jExptestNG:57 - It is warning message
+2018-09-07 11:05:58 ERROR log4jExptestNG:58 - It is error message
+2018-09-07 11:05:58 FATAL log4jExptestNG:59 - Fatal Message
+2018-09-07 11:06:17 INFO  log4jExptestNG:21 - -----------------New Testcvase----------------------
+2018-09-07 11:06:17 TRACE log4jExptestNG:22 - It is trace message
+2018-09-07 11:06:17 DEBUG log4jExptestNG:23 - Application is opened
+2018-09-07 11:06:17 INFO  log4jExptestNG:24 - Page is opened
+2018-09-07 11:06:17 WARN  log4jExptestNG:25 - It is warning message
+2018-09-07 11:06:17 ERROR log4jExptestNG:26 - It is error message
+2018-09-07 11:06:17 FATAL log4jExptestNG:27 - Fatal Message
+2018-09-07 11:06:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-07 11:06:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/system8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-07 11:06:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-07 11:06:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-07 11:06:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/system8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-07 11:09:19 INFO  log4jExptestNG:54 - -----------------New Testcvase----------------------
+2018-09-07 11:09:19 TRACE log4jExptestNG:55 - It is trace message
+2018-09-07 11:09:19 DEBUG log4jExptestNG:56 - Application is opened
+2018-09-07 11:09:19 INFO  log4jExptestNG:57 - Page is opened
+2018-09-07 11:09:19 WARN  log4jExptestNG:58 - It is warning message
+2018-09-07 11:09:19 ERROR log4jExptestNG:59 - It is error message
+2018-09-07 11:09:19 FATAL log4jExptestNG:60 - Fatal Message
+2018-09-07 11:09:19 INFO  log4jExptestNG:21 - -----------------New Testcvase----------------------
+2018-09-07 11:09:19 TRACE log4jExptestNG:22 - It is trace message
+2018-09-07 11:09:19 DEBUG log4jExptestNG:23 - Application is opened
+2018-09-07 11:09:19 INFO  log4jExptestNG:24 - Page is opened
+2018-09-07 11:09:19 WARN  log4jExptestNG:25 - It is warning message
+2018-09-07 11:09:19 ERROR log4jExptestNG:26 - It is error message
+2018-09-07 11:09:19 FATAL log4jExptestNG:27 - Fatal Message
+2018-09-07 11:09:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-07 11:09:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/system8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-07 11:09:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-07 11:09:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-07 11:09:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/system8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-07 11:12:56 INFO  log4jExptestNG:21 - -----------------New Testcvase----------------------
+2018-09-07 11:12:56 TRACE log4jExptestNG:22 - It is trace message
+2018-09-07 11:12:56 DEBUG log4jExptestNG:23 - Application is opened
+2018-09-07 11:12:56 INFO  log4jExptestNG:24 - Page is opened
+2018-09-07 11:12:56 WARN  log4jExptestNG:25 - It is warning message
+2018-09-07 11:12:56 ERROR log4jExptestNG:26 - It is error message
+2018-09-07 11:12:56 FATAL log4jExptestNG:27 - Fatal Message

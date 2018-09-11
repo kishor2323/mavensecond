@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+<listeners>
+	<listener class-name="maven.SriNK.Extentreport"></listener>
+</listeners>
+  <test name="Default test">
+ 
+    <classes>
+      <class name="maven.SriNK.readexcel"/>
+      <class name="maven.SriNK.log4jExptestNG">
+      </class>
+    </classes>
+   
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
+            
